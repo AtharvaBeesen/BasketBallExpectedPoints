@@ -7,7 +7,7 @@ Wrote a program within Jupyter Notebook that uses Machine Learning (Random Forre
 
 Used Python and SQL to scrape, clean, and manipulate the data. Implemented One-Hot and Target Encoding to prepare the data for the Regression Algorithms.
 
-Working towards further using Machine Learning to continue adding different factors that affect the outcome of a shot as well as well as use Feature Selection to improve the model.
+Currently working towards further using Machine Learning to continue adding different factors that affect the outcome of a shot as well as well as use Feature Selection to improve the model.
 
 ## Example Output
 I tested the model on data from the 2022/23 NBA Regular Season to see who the top performing players were.
