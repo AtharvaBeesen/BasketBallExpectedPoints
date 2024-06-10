@@ -1,3 +1,5 @@
+<img src="https://github.com/AtharvaBeesen/BasketBallExpectedPoints/assets/86427671/da29bea8-b36a-4932-89b3-c604f94c7a59" alt="Points Added Per game (1)" width="450">
+
 # NBA Shot Analysis and Predictive Modeling
 
 ## Project Structure
